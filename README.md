@@ -4,7 +4,7 @@ Esta é uma simples calculadora em Python que realiza operações básicas de ad
 ## Função calculadora
 
  ## Python 3.x
-```python
+
 def calculadora(num1, num2, operacao):
     if operacao == 1:
         return num1 + num2
@@ -17,7 +17,7 @@ def calculadora(num1, num2, operacao):
     else:
         return 0
 
-```python
+
  ## Parâmetros
 num1 (float): O primeiro número para a operação.
 num2 (float): O segundo número para a operação.
@@ -34,7 +34,7 @@ O script solicita ao usuário que insira dois números e escolha uma operação.
 
 ## Exemplo de Uso
 
-```python
+
 try:
     num1 = float(input("Digite o primeiro número: "))
     num2 = float(input("Digite o segundo número: "))
