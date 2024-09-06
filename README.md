@@ -16,6 +16,8 @@ def calculadora(num1, num2, operacao):
         return num1 / num2 if num2 != 0 else "Erro: Divisão por zero"
     else:
         return 0
+
+```python
  ## Parâmetros
 num1 (float): O primeiro número para a operação.
 num2 (float): O segundo número para a operação.
